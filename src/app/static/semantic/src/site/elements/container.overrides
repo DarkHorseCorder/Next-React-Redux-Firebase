@@ -1,0 +1,15 @@
+/*******************************
+         Site Overrides
+*******************************/
+.ui.container.clock {
+    padding: 15px;
+    display: inline-block;
+    color: #82FA58;
+    font: 50px menlo, monaco, monospace;
+    background-color: #000;
+    width: auto;
+}
+
+.ui.container.clock.light {
+    background-color: #999;
+}
